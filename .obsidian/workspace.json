@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importados pc/git/pasos para crear un repositorio (vault de obsidian por ejemplo).md",
+                "file": "importados pc/git/referencias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importados pc/git/pasos para crear un repositorio (vault de obsidian por ejemplo).md",
+                "file": "importados pc/git/referencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importados pc/git/pasos para crear un repositorio (vault de obsidian por ejemplo).md",
+                "file": "importados pc/git/referencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importados pc/git/pasos para crear un repositorio (vault de obsidian por ejemplo).md"
+                "file": "importados pc/git/referencias.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "d850e8e49575af49",
   "lastOpenFiles": [
-    "importados pc/git/abrir proyecto.md",
     "importados pc/git/pasos para crear un repositorio (vault de obsidian por ejemplo).md",
+    "importados pc/git/referencias.md",
+    "importados pc/git/abrir proyecto.md",
     "importados pc/git/instalar git.md",
     "importados pc/git/git remote.md",
     "importados de cell/referencias 2.md",
@@ -175,7 +176,6 @@
     "importados pc/portugues/jeito.md",
     "importados pc/obsidian/imagen en obsidian.md",
     "importados pc/upn/five levels of reading.md",
-    "importados pc/personal/dopamina.md",
     "importados pc/el triunfo",
     "importados pc/git",
     "nuevos en cell/Sin confirmar 902136.crdownload",

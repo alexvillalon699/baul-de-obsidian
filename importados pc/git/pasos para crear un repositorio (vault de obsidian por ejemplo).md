@@ -53,3 +53,4 @@ create repository
 
 copiar la sexta linea del codigo
 git remote add origin https://github.com/alexvillalon699/baul-de-obsidian.git
+#developeando120722 como usar github lo que necesitas saber
