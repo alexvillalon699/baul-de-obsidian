@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6b3ba56f89599e",
+        "id": "2091075cbee78028",
         "type": "tabs",
         "children": [
           {
-            "id": "d850e8e49575af49",
+            "id": "e90420363e00e3d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importados pc/git/prueba de actualizacon en git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importados pc/git/prueba de actualizacon en git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importados pc/git/prueba de actualizacon en git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "importados pc/git/prueba de actualizacon en git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d850e8e49575af49",
+  "active": "e90420363e00e3d8",
   "lastOpenFiles": [
-    "importados pc/git/referencias.md",
     "importados pc/git/prueba de actualizacon en git.md",
+    "importados pc/git/referencias.md",
     "importados pc/git/pasos para crear un repositorio (vault de obsidian por ejemplo).md",
     "importados pc/git/abrir proyecto.md",
     "importados pc/git/instalar git.md",
