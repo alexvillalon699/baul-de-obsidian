@@ -1,0 +1,1 @@
+es dificil tomarte demasiado en serio cuando usas un sobrero ridiculo.

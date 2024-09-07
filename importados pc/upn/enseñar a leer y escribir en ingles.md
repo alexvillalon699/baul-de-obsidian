@@ -1,0 +1,1 @@
+jalunus usaba un codigo para escribir los sonidos del idioma que estaba aprendiendo, que mejor codigo para escribir los sonidos que el mismo lenguaje escrito de esa lengua?

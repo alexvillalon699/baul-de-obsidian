@@ -1,0 +1,2 @@
+la mano esta conectada con la boca, mientras se habla se hace un ademan con un ritmo que funciona como metronomo, una vez que se tiene el ritmo, se puede acelerar la mano y el habla tambien acelerara.
+#Atkinson2014 120

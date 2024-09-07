@@ -1,0 +1,9 @@
+Este método se base en el reconocimiento de palabras completas sin descomponerlo en sus sonidos individuales. Pareciera una contradicción usar los dos métodos de enseñanza, pero podemos ubicarlo en un método ecléctico, que es muy usado por gran parte de los profesores de educación básica, donde integran partes de estos dos métodos más usados ya mencionados.
+
+En este método se presenta un grupo de ocho palabras muy usadas del inglés previamente definidas y se le dice al niño su pronunciación de tal manera que este reconozca y relacione el conjunto de las letras que forman la palabra con su sonido y por ende con su significado. Estas ocho palabras que se le hacen repetir algunas veces al niño en seguida se cambian su orden en la lista de tal forma que fuercen al niño a recordarlas y reconocerlas para que él las mencione, corrigiéndolo en caso de ser necesario. Este ejercicio se repite algunas veces hasta que el infante adquiera un buen nivel de dominio.
+
+Al siguiente día se le puede enseñar otro grupo de ocho palabras repitiendo el mismo procedimiento. El niño adquirirá la capacidad de reconocer las palabras cuando se presenten en su ambiente y de reconocer patrones en ellas que le indiquen otras palabras similares que pueden tener similar pronunciación y por ende puede llegar a decodificarlas o aprenderlas más fácilmente.
+
+He aquí una lista posible de estas palabras:
+
+The, Of, And, A, To, In, Is, You, That, It, He, Was, For, On, Are, As, With, His, They, I, At, Be, This, Have, From, Or, One, Had, By, Words, But, Not, What, All, Were, We, When, Your, Can, Said, There, Use, An, Each, Wich, She, Do, How, Their, If, Will, Up, Other, About, Out, Many, Then, Them, These, So, Some, Her, Would, Like, Make, Him, Into, Time, Has, Look, Two, More, Write, Go, See, Number, No, Way, Could, People, My, Than, First, Water, Been, Called, Who, Am, It´s, Now, Find, Long, Down, Day, Did, Get, Come, made, may, part.

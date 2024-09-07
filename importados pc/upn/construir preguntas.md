@@ -1,0 +1,1 @@
+puedes poner las palabres de pregunta al principio y se convertiran en preguntas

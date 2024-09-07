@@ -1,0 +1,1 @@
+usamos la pregunta quien, y gradualmente nos movemos al como, que, donde y cuando. estas preguntas aceleran el aprendizaje, podemos transformar las tablas ya hechas con los temas, para que ahora sean de preguntas que propicien la conversación. #Atkinson2014 96

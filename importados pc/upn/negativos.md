@@ -1,0 +1,1 @@
+puedes agregar otra columna para hacer los negativos.

@@ -1,0 +1,1 @@
+las palabres del porque son los veiculos de la emocion en la comunicación. palabras como elegir, quiero, deseo, me gusta, nos dicen por que se hace algo. contruye tu primera tabla usandolas y parctica, con algunas palabres de soporte como "ir a" #Atkinson2014 66

@@ -1,0 +1,1 @@
+es un grupo de 850 palabras del simple ingles con el que supuestamente es el mínimo y suficiente para comunicarse

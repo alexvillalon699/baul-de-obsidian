@@ -1,0 +1,1 @@
+en las tablas se elimina toda la gramatica, ecepto el orden de las palabras. #Atkinson2014 106

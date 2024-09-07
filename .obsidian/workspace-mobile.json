@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "bfba3957d3583c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "43db1e5342575ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ca98b60fbbe9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declaración.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35a177d603a11193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sindicato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b883054f617da5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pruebas ets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d0d5a2f0b6736a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dopamina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95c12832727e7f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declaración.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "339f77a636960aa0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16350a72d6b1608e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "756672fd993c51c1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b28d8a13ed19b4eb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6227bb65acd643c6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bb7cc175e240e4b7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "103c4776948d951d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Declaración.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "978cf5e379663a2d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Declaración.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b1a1bf0fd56762e0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Declaración.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "95c12832727e7f85",
+  "lastOpenFiles": [
+    "control clase.md",
+    "pruebas ets.md",
+    "reporte banamex.md",
+    "dopamina.md",
+    "Declaración.md",
+    "Untitled.md",
+    "sindicato.md",
+    "personas.md"
+  ]
+}

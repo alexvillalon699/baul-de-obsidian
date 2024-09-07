@@ -1,0 +1,5 @@
+
+la enseñanza del ingles en educación secundaria tiene una tradición de varios lustros en nuestro país. Esta enseñanza se ha caracterizado por solamente proveer las bases para el entendimiento del inglés escrito, mismas que han significado de mucha ayuda para las profesionistas al momento de estudiar sus carreras y actualizarse. Sin embargo, con la expansión del internet, es necesario el entendimiento del lenguaje sonoro del inglés para poder tener acceso a los miles de videos disponibles en todos los campos del saber.
+Por tal motivo es necesario el mejoramiento de la comprensión auditiva del ingles.
+
+En estos momentos en que se pretende extender la enseñanza del ingles a los niveles quinto y sexto de la educación primaria es necesario contar con herramientas más poderosas que las que se han venido usando anteriormente debido a la falta de eficacia que se ha demostrado durante este largo periodo.

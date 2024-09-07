@@ -1,0 +1,1 @@
+nuestro sistema intuitivo sabe que un concepto es una idea y que lo fisico es real,  para hacer un leguaje anclarse, debe atarse a algo real y fisico. eso puede ser nuestro cuerpo #Atkinson2014 51

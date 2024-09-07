@@ -1,0 +1,1 @@
+Micrófono de plástico para dar la palabra. Ayuda también para que practiquen su uso en el acto.

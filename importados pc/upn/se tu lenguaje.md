@@ -1,0 +1,2 @@
+los humanos vivimos en el lenguaje, es algo que le da forma a la sociedad, y solo en sociedad vivimos. no aprendas el nuevo lenguaje, se alguien que lo hable, visualizate como tu yo con el nuevo lenguaje.
+#Atkinson2014 73

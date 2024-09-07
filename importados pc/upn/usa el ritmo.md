@@ -1,0 +1,1 @@
+practica los movimientos de la boca, hablando fuerte y trara de seguir un ritmo, canta o usa un metronome, despues incrementa la velocidad usando el ritmo.

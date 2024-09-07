@@ -1,0 +1,1 @@
+piensa diez tareas que haces diario solo por diversión y agregalas a tu proceso de aprendizaje de la segunda lengua.

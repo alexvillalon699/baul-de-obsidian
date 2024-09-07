@@ -1,0 +1,1 @@
+para evitar la verguenza, es necesario agregar más ridiculo en la actuacion y asi pierde su poder de avergonzar.

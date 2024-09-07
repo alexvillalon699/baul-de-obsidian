@@ -1,0 +1,1 @@
+pedazos de palabra que no tienen una traduccion universal, pero se usan por convencion.
