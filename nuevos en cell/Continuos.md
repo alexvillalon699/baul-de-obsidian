@@ -1,0 +1,6 @@
+[[orton gilligan]]
+Muestra el continuo del phonics, rimas...
+Y el de phonography
+Cvc...
+
+[[PreferablyPreK]] , 230122, what is phonological awareness, phonemic awareness, phonics? How to teach it & free
